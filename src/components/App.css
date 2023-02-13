@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(80deg, #e66465, #9198e5);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+.App {
+  text-align: center;
+}
+
+.App input,
+.App button {
+  margin: 20px;
+  padding: 10px 20px;
+  border: 2px solid white;
+  background-color: #fff;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+.App button {
+  cursor: pointer;
+}
+
+.App button:hover {
+  background-color: #e66465;
+  color: white;
+}

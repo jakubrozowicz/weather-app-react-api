@@ -1,0 +1,17 @@
+.result h3,
+.result h2 {
+  font-weight: normal;
+}
+
+.result h2 em {
+  font-weight: bold;
+}
+
+.content {
+  border: 2px solid black;
+  margin: 20px;
+  border-radius: 10px;
+  background: whitesmoke;
+  color: #000;
+  opacity: 0.9;
+}

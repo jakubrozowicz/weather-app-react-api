@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Default Dark+ Experimental",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.snippetSuggestions": "top",
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.tabCompletion": "onlySnippets",
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "beautify.ignore": ["**/*.js", "**/*.jsx"]
+}
